@@ -1,6 +1,6 @@
 # SkinLiTE: Lightweight Supervised Contrastive Learning Model for Enhanced Skin Lesion Detection and Disease Typification in Dermoscopic Images
 
-DOI: 10.2174/0115734056313837240612065845
+DOI: [10.2174/0115734056313837240612065845](10.2174/0115734056313837240612065845)
 
 ![Graphical Abstract](https://github.com/SalhaAlzahrani/SkinLiTE/blob/main/Graphical%20Abstract.png)
 
