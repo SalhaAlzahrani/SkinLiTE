@@ -2,7 +2,7 @@
 
 DOI: 10.2174/0115734056313837240612065845
 
-![Graphical Abstract]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/SalhaAlzahrani/SkinLiTE/blob/main/Model.png)
+![Graphical Abstract](https://github.com/SalhaAlzahrani/SkinLiTE/blob/main/Graphical%20Abstract.png)
 
 ****
 Abstract
