@@ -1,9 +1,12 @@
-# SkinLiTE
-#Lightweight Supervised Contrastive Learning Model for Enhanced Skin Lesion Detection and Disease Typification in Dermoscopic Images
+# SkinLiTE: Lightweight Supervised Contrastive Learning Model for Enhanced Skin Lesion Detection and Disease Typification in Dermoscopic Images
+
 DOI: 10.2174/0115734056313837240612065845
 
+![Graphical Abstract]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/SalhaAlzahrani/SkinLiTE/blob/main/Model.png)
+
 ****
-#Abstract 
+Abstract
+
 Introduction: This study introduces SkinLiTE, a lightweight supervised contrastive learning model tailored to enhance the detection and typification of skin lesions in dermoscopic images. The core of SkinLiTE lies in its unique integration of supervised and contrastive learning approaches, which leverages labeled data to learn generalizable representations. This approach is particularly adept at handling the challenge of complexities and imbalances inherent in skin lesion datasets.
 
 Methods: The methodology encompasses a two-phase learning process. In the first phase, SkinLiTE utilizes an encoder network and a projection head to transform and project dermoscopic images into a feature space where contrastive loss is applied, focusing on minimizing intra-class variations while maximizing inter-class differences. The second phase freezes the encoder's weights, leveraging the learned representations for classification through a series of dense and dropout layers. The model was evaluated using three datasets from Skin Cancer ISIC 2019-2020, covering a wide range of skin conditions.
